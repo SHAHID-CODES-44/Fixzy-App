@@ -64,7 +64,18 @@
 #submit-button:hover {
     background: #0098fd;
 }
-
+#callus1{
+    width: 100%;
+    padding: 10px;
+    background: #018dff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 15px;
+    transition: background 0.3s ease-in-out;
+}
 /* Responsive Design */
 @media (max-width: 480px) {
     #container {
